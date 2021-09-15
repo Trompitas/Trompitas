@@ -19,8 +19,12 @@
   <p align="center">A summary of my programming skills.</p>
   
 <p align="center">
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apache.png' height='42px'/>
   <img src='https://github.com/Trompitas/Trompitas/blob/main/assets/java.png' height='42px'>
   <img src='https://github.com/Trompitas/Trompitas/blob/main/assets/mysql.png' height='42px'>
+   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mariadb.png' height='42px'>
 
 
 </p>
