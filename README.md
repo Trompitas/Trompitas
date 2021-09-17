@@ -20,7 +20,7 @@
   
 <p align="center">
   <img src='https://github.com/Trompitas/Trompitas/blob/main/assets/java.png' height='42px'>
-  <img src='https://github.com/Tromnpitas/Trompitas/blob/main/assets/mysql.png' height='42px'>
+  <img src='https://github.com/Trompitas/Trompitas/blob/main/assets/mysql.png' height='42px'>
 
 </p>
 
